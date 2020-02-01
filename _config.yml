@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "James McMillan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "a wanderer finding his way through caotic modern life."
+  bio              : "a wanderer finding his way through modern chaotic life."
   location         : "Orange County, CA"
   email            :
   links:
@@ -282,7 +282,7 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  _posts
   - scope:
       path: ""
       type: posts
