@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "jMacTheWanderer"
+title                    : "29thMoon"
 title_separator          : "-"
-subtitle                 : "my wandering life, one step at a time" # site tagline that appears below site title in masthead
+subtitle                 : "enter another dimension" # site tagline that appears below site title in masthead
 name                     : "James McMillan"
-description              : "my wandering life, one step at a time"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : ""
+url                      : "https://29thmoon.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "jMac029/29thmoon_site" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "James McMillan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "a wanderer finding his way through modern chaotic life."
+  bio              : "collecting my thoughts and experiences all in one place"
   location         : "Orange County, CA"
   email            :
   links:
