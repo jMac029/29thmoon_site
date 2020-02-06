@@ -22,12 +22,16 @@ permalink: "/about/"
 ![image-center](/assets/images/img_4490-e1554778837276.jpg){: width="320px" .align-center}
 
 I've built this site to document my wanderings whether that be in nature, learning new skills or the greatest journey that we are all on "life." I primarily write and share about hiking, backpacking, technology, learning and my life.
+{: style="text-align: center;"}
 
 I am a Cloud Engineer by trade working primarily with Amazon Web Services. I am also an amateur photography in landscapes and candid people photos, my favorite subjects are sweeping vistas and my family. I hope you enjoy what I share with you and feel free to comment on any of my post, would love to hear and interact with you.
+{: style="text-align: center;"}
 
 Here are some featured post where I share more about myself:
+{: style="text-align: center;"}
 
 [Why I am a wanderer](/2019/04/08/why-i-am-a-wanderer/)
+{: style="text-align: center;"}
 
 I'll have more to add to this soon
 {: style="text-align: center;"}
