@@ -19,7 +19,7 @@ author:
   last_name: ''
 permalink: "/about/"
 ---
-![image-center](/assets/images/img_4490-e1554778837276.jpg){: width="180px"}
+![image-center](/assets/images/img_4490-e1554778837276.jpg){: width="200px" .align-center}
 
 I've built this site to document my wanderings whether that be in nature, learning new skills or the greatest journey that we are all on "life." I primarily write and share about hiking, backpacking, technology, learning and my life.
 
