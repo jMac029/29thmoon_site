@@ -2,7 +2,6 @@
 layout: default
 title: About
 date: 2016-02-23 15:36:39.000000000 -08:00
-classes: wide
 type: page
 parent_id: '0'
 published: true
