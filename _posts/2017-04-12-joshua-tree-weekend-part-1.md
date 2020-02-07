@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Peace and Solitude Weekend in Joshua Tree National Park
+header:
+  image: /assets/images/img_9586.jpg
 date: 2017-04-12 07:00:09.000000000 -07:00
 type: post
 classes: wide
@@ -19,34 +21,35 @@ tags:
 - gaiagps
 - Joshua Tree
 - Willow Hole
-meta:
-  _oembed_9fba0628af8a193dadc63343737e5811: "{{unknown}}"
-  _thumbnail_id: '118'
-  geo_latitude: '33.873415'
-  geo_longitude: "-115.900992"
-  _rest_api_published: '1'
-  _rest_api_client_id: '11'
-  _oembed_2efc325494e6ec3803e922184670a205: "{{unknown}}"
-  _edit_last: '101522684'
-  geo_public: '1'
-  _oembed_19934c62c31504ae7de91b136674eb40: "{{unknown}}"
-  _publicize_done_external: a:2:{s:8:"facebook";a:1:{i:17082917;s:38:"https://facebook.com/10100813821098123";}s:7:"twitter";a:1:{i:17117585;s:61:"https://twitter.com/jMacTheWanderer/status/852167936970289153";}}
-  _publicize_job_id: '3916415449'
-  _publicize_done_17315102: '1'
-  _wpas_done_17082917: '1'
-  publicize_google_plus_url: https://plus.google.com/116261678090015834225/posts/9kumMRqMrTr
-  _publicize_done_17315113: '1'
-  _wpas_done_17082927: '1'
-  publicize_tumblr_url: http://.tumblr.com/post/159491115307
-  _publicize_done_17315124: '1'
-  _wpas_done_17082932: '1'
-  _publicize_done_17351908: '1'
-  _wpas_done_17117585: '1'
-  publicize_twitter_user: jMacTheWanderer
-  _wpas_skip_17082917: '1'
-  _wpas_skip_17082927: '1'
-  _wpas_skip_17117585: '1'
-  _wpas_skip_17082932: '1'
+gallery:
+- url: /assets/images/img_9428.jpg
+  image_path: /assets/images/img_9428.jpg
+  alt: "from the trailhead"
+  title: "from the trailhead"
+- url: /assets/images/img_9419.jpg
+  image_path: /assets/images/img_9419.jpg
+  alt: "looking back at the parking lot"
+  title: "looking back at the parking lot"
+- url: /assets/images/fullsizeoutput_53d6.jpeg
+  image_path: /assets/images/fullsizeoutput_53d6.jpeg
+  alt: "the trail awaits"
+  title: "the trail awaits"
+- url: /assets/images/img_9422.jpg
+  image_path: /assets/images/img_9422.jpg
+  alt: "desert in full bloom"
+  title: "desert in full bloom"
+- url: /assets/images/img_9425.jpg
+  image_path: /assets/images/img_9425.jpg
+  alt: "climbing and bouldering areas"
+  title: "climbing and boulder areas"
+- url: /assets/images/img_9434.jpg
+  image_path: /assets/images/img_9434.jpg
+  alt: "more blooms"
+  title: "more blooms"
+- url: /assets/images/img_9428.jpg
+  image_path: /assets/images/img_9428.jpg
+  alt: "Willow Hole cutoff from Boy Scout Trail"
+  title: "Willow Hole cutoff from Boy Scout Trail"
 author:
   login: jmacthewanderer
   email: james_mcmillan@icloud.com
@@ -57,27 +60,46 @@ permalink: "/2017/04/12/joshua-tree-weekend-part-1/"
 excerpt: A few weekends ago, after overcoming a cold I got away for a few days and
   headed out to Joshua Tree National Park
 ---
-<p>A few weekends ago, after overcoming a cold I got away for a few days and headed out to Joshua Tree National Park. I was greeted with breezy, cool and sunny days. It was a perfect time to be out in the high desert to enjoy some isolation and put some new gear to the test.</p>
-<p>I first planned this trip to be a moderate/strenuous hike to the top of Eureka Peak, via Black Rock Canyon. Then find a place off trail to camp at night on way back. That was a 10mile+ round trip with ~2000ft elevation gain/loss. Not too bad but after battling a cold for over a week I was ready for something much easier and a little more relaxing.</p>
-<p><a href="https://www.gaiagps.com/public/5ZSr4EflpqpbCvlmZFhZKkPn" target="_blank"><img class="alignnone wp-image-281 size-full" src="{{ site.baseurl }}/assets/eureka_peak_blk_rock_route.png" alt="eureka peak route overview" width="759" height="827" /></a></p>
-<p style="text-align:center;"><a href="https://www.gaiagps.com/public/YtlcojFlJ3MVzTSmgYslrGV3" target="_blank"><em>the originally planned route</em></a> (GaiaGPS)</p>
-<p>I decided to head to another area further into the park that I had not explored yet. The Wonderland of Rocks off of the Boy Scout Trail near the center of the park. This trail and area is flat with only ~200ft gain/loss which sounded perfect to me for an easy overnight hike. My route set, I packed up my gear got some supplies and a good night's rest. I left home before sunrise on Friday morning (thanks to the state of California for having a Caesar Chavez holiday) and arrived in the park before 9am.</p>
-<p>I am glad I got there earlier in the day as the park has been getting very crowded this spring. All the established campsites were full so the only choice was to head into the wilderness areas. I reached the parking lot did some final prep and was on the trail a little after 10am. I planned to hike in a mile or so to where there were cool rock formations I found while scouting the area online. Although these were great places to camp they were too crowded for my taste. I decided to travel further on past the cut off for the Willow Hole Trail. Where the trail is less traveled and provided better isolation and peace.</p>
-<p>[gallery ids="138,139,140,141,142,143,130" type="rectangular" link="file"]</p>
-<p>I hiked another half a mile pass the Willow Hole Trail cutoff to where a series of washes cross the path. I wanted to camp in the area that was east of the trail within "The Wonderland of Rocks" as there looked to be a lot of areas that would shelter from the gusty winds that were starting to pick up. Unfortunately that are is off limits to overnight camping as it is where many of the wildlife in the area live near the many water sources that are pocketed throughout. I settled for exploring that area and heading towards Willow Hole after I had found a spot for the night. I found an outcropping of rocks that were not far off the trail to the west and headed for them. This turned out to be a great spot, far enough off the trail but still easy enough to find it again, on the high ground and surrounded by some boulders, although not protected from the wind which I settled for.</p>
-<p>[caption width="5184" id="attachment_155" align="aligncenter"]<a href="https://jmacthewanderer.files.wordpress.com/2017/04/img_9566.jpg"><img class="wp-image-155 size-full" src="{{ site.baseurl }}/assets/img_9566.jpg" alt="IMG_9566" width="5184" height="3456" /></a> the spot[/caption]This spot had some great features as the rocks were easy to climb to admire the surrounding area. Places to sit and setup my stove that was semi-protected from the gust of wind. I setup my tent, secured it with stakes, packed my day bag with lunch then headed back out to explore the area.</p>
-<p>I headed east towards the trail and onward to Willow Hole. I elected not to head back to the trail and followed the rocks as they led towards the direction of Willow Hole. I stopped several times to check out the rock formations, blooming cactus and flowers. I found an area where I could climb up on the rocks, sit down and eat the bagel and peanut butter I had brought for lunch. I started to see hikers on the Willow Hole Trail a little off in the distance, I knew I was heading in the right direction.</p>
-<p>After taking in the sights and sounds from my rocky perch I headed toward the direction of the trail. Willow Trail becomes a wash once it enters the rock canyon. The sand gets deeper which starts to take it's toll on your calves. The canyon gave me the sense of being stranded on another planet or walked onto a sci-fi movie set, it is surreal.</p>
-<p>As I traversed further up the canyon there was much more water and green trees and shrubs. The path got cut off by a larger pool of muddy water that would have been hard to pass without getting very dirty. This was something I had not planned on, I told myself it was time to turn back.</p>
-<p>[gallery ids="178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200" type="rectangular" link="file"]</p>
-<p>After getting pass the deep sand of the wash, it was then an easy stroll back to my campsite with plenty of time to relax. The wind had picked up and I found myself sheltering in my tent to attempt to a nap. It made for a nice end of the day with a Nalgene full of country-time lemonade and a good audio book to listen to.</p>
-<p><a href="https://www.gaiagps.com/public/YtlcojFlJ3MVzTSmgYslrGV3" target="_blank"><img class="alignnone wp-image-280 size-full" src="{{ site.baseurl }}/assets/boyscout_willowhole_track.png" alt="boy scout trail willow hole overview" width="761" height="825" /></a></p>
-<p style="text-align:center;"><a href="https://www.gaiagps.com/public/YtlcojFlJ3MVzTSmgYslrGV3" target="_blank"><em>the completed track </em></a>(GaiaGPS)<em><br />
-</em></p>
-<p>The wind died down as the sun began to set in the distance behind snow capped San Gorgonio Mountain. It was a beautiful end to a great day out on an easy going trail. It was time for some dinner using my new Snow Peak stove and wait for the stars to come out.</p>
-<p>[gallery ids="208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,66" type="rectangular" link="file"]</p>
-<p>I decided to settle in early for the night, even though it was an easy hike I was still pretty beat. I blame the cold that I was getting over. Being out in nature is always the best remedy and by the next day I was feeling almost 100%. The wind stayed low throughout most of the night but it picked up again close to dawn. This of made it a bit of a struggle to put away the tent in the wind.</p>
-<p>The hike back to the parking lot was a piece of cake. It was now Saturday morning and you could feel the difference with the amount of people on the trail. Particularly something to keep and eye out for if you are looking for isolation.</p>
-<p>The next day I ended my isolation to meet up with my cousin in the Twin Tanks area of the park. I'll tell that story in my next post along with a conclusion of my weekend in J-Tree.</p>
-<p><a href="https://jmacthewanderer.blog/2017/04/14/joshua-tree-weekend-part-2/">Wrapping up the Weekend in Joshua Tree</a><br />
-<strong>UPDATE</strong>: A<em>dded in screenshots of the GaiaGPS routes and tracks since wordpress.com does not allow iframe embeds from their site. Hopefully they will add in that feature soon, I put in a request.</em></p>
+A few weekends ago, after overcoming a cold I got away for a few days and headed out to Joshua Tree National Park. I was greeted with breezy, cool and sunny days. It was a perfect time to be out in the high desert to enjoy some isolation and put some new gear to the test.
+
+I first planned this trip to be a moderate/strenuous hike to the top of Eureka Peak, via Black Rock Canyon. Then find a place off trail to camp at night on way back. That was a 10mile+ round trip with ~2000ft elevation gain/loss. Not too bad but after battling a cold for over a week I was ready for something much easier and a little more relaxing.
+
+[![image-center](/assets/images/eureka_peak_blk_rock_route.png)](https://www.gaiagps.com/public/5ZSr4EflpqpbCvlmZFhZKkPn){: height="150" .align-center}
+
+I decided to head to another area further into the park that I had not explored yet. The Wonderland of Rocks off of the Boy Scout Trail near the center of the park. This trail and area is flat with only ~200ft gain/loss which sounded perfect to me for an easy overnight hike. My route set, I packed up my gear got some supplies and a good night's rest. I left home before sunrise on Friday morning (thanks to the state of California for having a Caesar Chavez holiday) and arrived in the park before 9am.
+
+I am glad I got there earlier in the day as the park has been getting very crowded this spring. All the established campsites were full so the only choice was to head into the wilderness areas. I reached the parking lot did some final prep and was on the trail a little after 10am. I planned to hike in a mile or so to where there were cool rock formations I found while scouting the area online. Although these were great places to camp they were too crowded for my taste. I decided to travel further on past the cut off for the Willow Hole Trail. Where the trail is less traveled and provided better isolation and peace.
+
+{% include gallery %}
+
+I hiked another half a mile pass the Willow Hole Trail cutoff to where a series of washes cross the path. I wanted to camp in the area that was east of the trail within "The Wonderland of Rocks" as there looked to be a lot of areas that would shelter from the gusty winds that were starting to pick up. Unfortunately that are is off limits to overnight camping as it is where many of the wildlife in the area live near the many water sources that are pocketed throughout. I settled for exploring that area and heading towards Willow Hole after I had found a spot for the night. I found an outcropping of rocks that were not far off the trail to the west and headed for them. This turned out to be a great spot, far enough off the trail but still easy enough to find it again, on the high ground and surrounded by some boulders, although not protected from the wind which I settled for.
+
+![image-center](/assets/images/img_9566.jpg)
+
+This spot had some great features as the rocks were easy to climb to admire the surrounding area. Places to sit and setup my stove that was semi-protected from the gust of wind. I setup my tent, secured it with stakes, packed my day bag with lunch then headed back out to explore the area.
+
+I headed east towards the trail and onward to Willow Hole. I elected not to head back to the trail and followed the rocks as they led towards the direction of Willow Hole. I stopped several times to check out the rock formations, blooming cactus and flowers. I found an area where I could climb up on the rocks, sit down and eat the bagel and peanut butter I had brought for lunch. I started to see hikers on the Willow Hole Trail a little off in the distance, I knew I was heading in the right direction.
+
+After taking in the sights and sounds from my rocky perch I headed toward the direction of the trail. Willow Trail becomes a wash once it enters the rock canyon. The sand gets deeper which starts to take it's toll on your calves. The canyon gave me the sense of being stranded on another planet or walked onto a sci-fi movie set, it is surreal.
+
+As I traversed further up the canyon there was much more water and green trees and shrubs. The path got cut off by a larger pool of muddy water that would have been hard to pass without getting very dirty. This was something I had not planned on, I told myself it was time to turn back.
+
+[gallery ids="178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200" type="rectangular" link="file"]
+
+After getting pass the deep sand of the wash, it was then an easy stroll back to my campsite with plenty of time to relax. The wind had picked up and I found myself sheltering in my tent to attempt to a nap. It made for a nice end of the day with a Nalgene full of country-time lemonade and a good audio book to listen to.
+
+[![image-center](/assets/images/boyscout_willowhole_track.png)](https://www.gaiagps.com/public/YtlcojFlJ3MVzTSmgYslrGV3){: height="150" .align-center}
+
+The wind died down as the sun began to set in the distance behind snow capped San Gorgonio Mountain. It was a beautiful end to a great day out on an easy going trail. It was time for some dinner using my new Snow Peak stove and wait for the stars to come out.
+
+[gallery ids="208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,66" type="rectangular" link="file"]
+
+I decided to settle in early for the night, even though it was an easy hike I was still pretty beat. I blame the cold that I was getting over. Being out in nature is always the best remedy and by the next day I was feeling almost 100%. The wind stayed low throughout most of the night but it picked up again close to dawn. This of made it a bit of a struggle to put away the tent in the wind.
+
+The hike back to the parking lot was a piece of cake. It was now Saturday morning and you could feel the difference with the amount of people on the trail. Particularly something to keep and eye out for if you are looking for isolation.
+
+The next day I ended my isolation to meet up with my cousin in the Twin Tanks area of the park. I'll tell that story in my next post along with a conclusion of my weekend in J-Tree.
+
+[Wrapping up the Weekend in Joshua Tree](/2017/04/14/joshua-tree-weekend-part-2/)
+
+*UPDATE*: _Added in screenshots of the GaiaGPS routes and tracks since wordpress.com does not allow iframe embeds from their site. Hopefully they will add in that feature soon, I put in a request._
