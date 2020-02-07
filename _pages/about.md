@@ -18,7 +18,7 @@ author:
   last_name: ''
 permalink: "/about/"
 ---
-![image-center](/assets/images/img_4490-e1554778837276.jpg){: width="320px" .align-center}
+[![image-center](https://www.dropbox.com/s/czostzm4ynat7yf/_img_4490-e1554778837276.jpeg?raw=1){: .align-center width="320px"}]
 
 I've built this site to document my wanderings whether that be in nature, learning new skills or the greatest journey that we are all on "life." I primarily write and share about hiking, backpacking, technology, learning and my life.
 {: style="text-align: center;"}
@@ -35,6 +35,4 @@ Here are some featured post where I share more about myself:
 I'll have more to add to this soon
 {: style="text-align: center;"}
 
-[![image](https://www.dropbox.com/s/zjpmmax9nnil8ac/_013495F7-9885-4D8B-9558-DF78B6318A78.jpeg?raw=1)]
-
-
+[![image-center](https://www.dropbox.com/s/zjpmmax9nnil8ac/_013495F7-9885-4D8B-9558-DF78B6318A78.jpeg?raw=1){: .align-center width="700px"}]
