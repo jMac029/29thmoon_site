@@ -14,10 +14,11 @@ author:
   login: jmacthewanderer
   email: james_mcmillan@icloud.com
   display_name: jMacTheWanderer
-  first_name: ''
-  last_name: ''
+  first_name: 'James'
+  last_name: 'McMillan'
 permalink: "/about/"
 ---
+
 ![image-center](https://www.dropbox.com/s/czostzm4ynat7yf/_img_4490-e1554778837276.jpeg?raw=1){: .align-center width="320px"}
 
 I've built this site to document my wanderings whether that be in nature, learning new skills or the greatest journey that we are all on "life." I primarily write and share about hiking, backpacking, technology, learning and my life.
