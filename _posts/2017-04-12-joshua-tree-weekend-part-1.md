@@ -100,7 +100,7 @@ After taking in the sights and sounds from my rocky perch I headed toward the di
 
 As I traversed further up the canyon there was much more water and green trees and shrubs. The path got cut off by a larger pool of muddy water that would have been hard to pass without getting very dirty. This was something I had not planned on, I told myself it was time to turn back.
 
-{% include gallery2 %}
+{% include gallery id="gallery2" %}
 
 [gallery ids="178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200" type="rectangular" link="file"]
 
