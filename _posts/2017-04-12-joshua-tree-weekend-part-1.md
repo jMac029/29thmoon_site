@@ -51,16 +51,16 @@ gallery:
   alt: "Willow Hole cutoff from Boy Scout Trail"
   title: "Willow Hole cutoff from Boy Scout Trail"
 gallery2:
-- url: https://www.dropbox.com/s/hlywivkleyaqain/_C220954F-C7F8-4307-9580-46C0D7AB6B17.jpeg?raw=1
+- image_path: https://www.dropbox.com/s/hlywivkleyaqain/_C220954F-C7F8-4307-9580-46C0D7AB6B17.jpeg?raw=1
   alt: "Most shade from a tree I could find"
   title: "Most shade from a tree I could find"
-- url: https://www.dropbox.com/s/8ghylv8rd2xoyob/_1A7EA3F8-6B0C-45C8-9D3D-17948F495633.jpeg?raw=1
+- image_path: https://www.dropbox.com/s/8ghylv8rd2xoyob/_1A7EA3F8-6B0C-45C8-9D3D-17948F495633.jpeg?raw=1
   alt: "holes"
   title: "holes"
-- url: https://www.dropbox.com/s/ievf2zpm3u255i1/_AA1A63AA-D56D-4F63-846C-FF25869DDDDA.jpeg?raw=1
+- image_path: https://www.dropbox.com/s/ievf2zpm3u255i1/_AA1A63AA-D56D-4F63-846C-FF25869DDDDA.jpeg?raw=1
   alt: "A friendly cactus"
   title: "A friendly cactus"
-- url: https://www.dropbox.com/s/6b9fmrstzbkbgx0/_3CE39261-0EE0-402C-A27D-C4A43AD9EBD1.jpeg?raw=1
+- image_path: https://www.dropbox.com/s/6b9fmrstzbkbgx0/_3CE39261-0EE0-402C-A27D-C4A43AD9EBD1.jpeg?raw=1
   alt: "beautiful blooms"
   title: "beautiful blooms"
 author:
