@@ -2,7 +2,7 @@
 layout: single
 title: Peace and Solitude Weekend in Joshua Tree National Park
 header:
-  image: /assets/images/img_9586.jpg
+  image: (https://www.dropbox.com/s/mr3lrk57fmgs0k3/_2996B849-AF31-43B8-AF20-5E76EF29BA47.jpeg?raw=1)
 date: 2017-04-12 07:00:09.000000000 -07:00
 type: post
 classes: wide
@@ -51,20 +51,20 @@ gallery:
   alt: "Willow Hole cutoff from Boy Scout Trail"
   title: "Willow Hole cutoff from Boy Scout Trail"
 gallery2:
-- url: https://www.dropbox.com/s/hlywivkleyaqain/_C220954F-C7F8-4307-9580-46C0D7AB6B17.jpeg?raw=1
-  image_path: https://www.dropbox.com/s/hlywivkleyaqain/_C220954F-C7F8-4307-9580-46C0D7AB6B17.jpeg?raw=1
+- url: (https://www.dropbox.com/s/hlywivkleyaqain/_C220954F-C7F8-4307-9580-46C0D7AB6B17.jpeg?raw=1)
+  image_path: (https://www.dropbox.com/s/hlywivkleyaqain/_C220954F-C7F8-4307-9580-46C0D7AB6B17.jpeg?raw=1)
   alt: "Most shade from a tree I could find"
   title: "Most shade from a tree I could find"
-- url: https://www.dropbox.com/s/8ghylv8rd2xoyob/_1A7EA3F8-6B0C-45C8-9D3D-17948F495633.jpeg?raw=1
-  image_path: https://www.dropbox.com/s/8ghylv8rd2xoyob/_1A7EA3F8-6B0C-45C8-9D3D-17948F495633.jpeg?raw=1
+- url: (https://www.dropbox.com/s/8ghylv8rd2xoyob/_1A7EA3F8-6B0C-45C8-9D3D-17948F495633.jpeg?raw=1)
+  image_path: (https://www.dropbox.com/s/8ghylv8rd2xoyob/_1A7EA3F8-6B0C-45C8-9D3D-17948F495633.jpeg?raw=1)
   alt: "holes"
   title: "holes"
-- url: https://www.dropbox.com/s/ievf2zpm3u255i1/_AA1A63AA-D56D-4F63-846C-FF25869DDDDA.jpeg?raw=1
-  image_path: https://www.dropbox.com/s/ievf2zpm3u255i1/_AA1A63AA-D56D-4F63-846C-FF25869DDDDA.jpeg?raw=1
+- url: (https://www.dropbox.com/s/ievf2zpm3u255i1/_AA1A63AA-D56D-4F63-846C-FF25869DDDDA.jpeg?raw=1)
+  image_path: (https://www.dropbox.com/s/ievf2zpm3u255i1/_AA1A63AA-D56D-4F63-846C-FF25869DDDDA.jpeg?raw=1)
   alt: "A friendly cactus"
   title: "A friendly cactus"
-- url: https://www.dropbox.com/s/6b9fmrstzbkbgx0/_3CE39261-0EE0-402C-A27D-C4A43AD9EBD1.jpeg?raw=1
-  image_path: https://www.dropbox.com/s/6b9fmrstzbkbgx0/_3CE39261-0EE0-402C-A27D-C4A43AD9EBD1.jpeg?raw=1
+- url: (https://www.dropbox.com/s/6b9fmrstzbkbgx0/_3CE39261-0EE0-402C-A27D-C4A43AD9EBD1.jpeg?raw=1)
+  image_path: (https://www.dropbox.com/s/6b9fmrstzbkbgx0/_3CE39261-0EE0-402C-A27D-C4A43AD9EBD1.jpeg?raw=1)
   alt: "beautiful blooms"
   title: "beautiful blooms"
 author:
