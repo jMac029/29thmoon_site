@@ -1,8 +1,11 @@
 ---
 layout: single
 title: Peace and Solitude Weekend in Joshua Tree National Park
+excerpt: A few weekends ago, after overcoming a cold I got away for a few days and headed out to Joshua Tree National Park.
+permalink: "/2017/04/12/joshua-tree-weekend-part-1/"
 header:
-  image: /assets/images/img_9586.jpeg
+  overlay_image: /assets/images/img_9586.jpeg
+  overlay_filter: 0.3
 date: 2017-04-12 07:00:09.000000000 -07:00
 type: post
 classes: wide
@@ -87,15 +90,82 @@ gallery2:
   image_path: /assets/images/img_9456.jpg
   alt: "looking back"
   title: "looking back"
+gallery3:
+- url: /assets/images/img_9567.jpg
+  image_path: /assets/images/img_9567.jpg
+  alt: "back at camp, looking into the Wonderland"
+  title: "back at camp, looking into the Wonderland"
+- url: /assets/images/img_9571.jpg
+  image_path: /assets/images/img_9571.jpg
+  alt: "big landscapes"
+  title: "big landscapes"
+- url: /assets/images/img_9574.jpg
+  image_path: /assets/images/img_9574.jpg
+  alt: "wind therapy hair"
+  title: "wind therapy hair"
+- url: /assets/images/fullsizeoutput_53ac.jpeg
+  image_path: /assets/images/fullsizeoutput_53ac.jpeg
+  alt: "panorama of surrounding area"
+  title: "panorama of surrounding area"
+- url: /assets/images/fullsizeoutput_53b2.jpeg
+  image_path: /assets/images/fullsizeoutput_53b2.jpeg
+  alt: "looking back"
+  title: "looking back"
+- url: /assets/images/img_9580.jpg
+  image_path: /assets/images/img_9580.jpg
+  alt: "more views"
+  title: "more views"
+- url: /assets/images/img_9581.jpeg
+  image_path: /assets/images/img_9581.jpeg
+  alt: "more blooming flowers"
+  title: "more blooming flowers"
+- url: /assets/images/img_9584.jpg
+  image_path: /assets/images/img_9584.jpg
+  alt: "peaking through"
+  title: "peaking through"
+- url: /assets/images/img_9585.jpg
+  image_path: /assets/images/img_9585.jpg
+  alt: ""
+  title: ""
+- url: /assets/images/img_9597.jpg
+  image_path: /assets/images/img_9597.jpg
+  alt: "dinner time"
+  title: "dinner time"
+- url: /assets/images/img_9607.jpg
+  image_path: /assets/images/img_9607.jpg
+  alt: "room with a view"
+  title: "room with a view"
+- url: /assets/images/img_9610.jpg
+  image_path: /assets/images/img_9610.jpg
+  alt: "the sun has set"
+  title: "the sun has set"
+- url: /assets/images/img_9492.jpg
+  image_path: /assets/images/img_9492.jpg
+  alt: "the glow continues"
+  title: "the glow continues"
+- url: /assets/images/img_9493.jpg
+  image_path: /assets/images/img_9493.jpg
+  alt: "mr moon"
+  title: "mr moon"
+- url: /assets/images/img_9496.jpg
+  image_path: /assets/images/img_9496.jpg
+  alt: "dinner selection for the evening"
+  title: "dinner selection for the evening"
+- url: /assets/images/img_9614.jpg
+  image_path: /assets/images/img_9614.jpg
+  alt: "come out at night"
+  title: "come out at night"
+- url: /assets/images/img_9628.jpg
+  image_path: /assets/images/img_9628.jpg
+  alt: "all packed up the next morning"
+  title: "all packed up the next morning"
+
 author:
   login: jmacthewanderer
   email: james_mcmillan@icloud.com
   display_name: jMacTheWanderer
   first_name: 'James'
   last_name: 'McMillan'
-permalink: "/2017/04/12/joshua-tree-weekend-part-1/"
-excerpt: A few weekends ago, after overcoming a cold I got away for a few days and
-  headed out to Joshua Tree National Park
 ---
 
 A few weekends ago, after overcoming a cold I got away for a few days and headed out to Joshua Tree National Park. I was greeted with breezy, cool and sunny days. It was a perfect time to be out in the high desert to enjoy some isolation and put some new gear to the test.
@@ -126,15 +196,13 @@ As I traversed further up the canyon there was much more water and green trees a
 
 {% include gallery id="gallery2" %}
 
-[gallery ids="178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200" type="rectangular" link="file"]
-
 After getting pass the deep sand of the wash, it was then an easy stroll back to my campsite with plenty of time to relax. The wind had picked up and I found myself sheltering in my tent to attempt to a nap. It made for a nice end of the day with a Nalgene full of country-time lemonade and a good audio book to listen to.
 
 [![image-center](/assets/images/boyscout_willowhole_track.png){: width="450" .align-center}](https://www.gaiagps.com/public/YtlcojFlJ3MVzTSmgYslrGV3)
 
 The wind died down as the sun began to set in the distance behind snow capped San Gorgonio Mountain. It was a beautiful end to a great day out on an easy going trail. It was time for some dinner using my new Snow Peak stove and wait for the stars to come out.
 
-[gallery ids="208,209,210,211,212,213,214,215,216,217,218,219,220,221,222,223,224,66" type="rectangular" link="file"]
+{% include gallery id="gallery3" %}
 
 I decided to settle in early for the night, even though it was an easy hike I was still pretty beat. I blame the cold that I was getting over. Being out in nature is always the best remedy and by the next day I was feeling almost 100%. The wind stayed low throughout most of the night but it picked up again close to dawn. This of made it a bit of a struggle to put away the tent in the wind.
 

@@ -1,8 +1,10 @@
 ---
 layout: single
 title: Why I am a Wanderer
+excerpt: ""
+permalink: "/2019/04/08/why-i-am-a-wanderer/"
 header:
-  image: /assets/images/pexels-photo-355935.jpg
+  overlay_image: /assets/images/pexels-photo-355935.jpg
 date: 2019-04-08 19:53:11.000000000 -07:00
 type: post
 classes: wide
@@ -28,7 +30,6 @@ author:
   display_name: jMacTheWanderer
   first_name: 'James'
   last_name: 'McMillan'
-permalink: "/2019/04/08/why-i-am-a-wanderer/"
 ---
 
 Many associate the word "Wander" with travel. While I do indeed like to travel I also like to wonder. I like to think of the two going hand-in-hand I wander to tickle my sense of wonder and wonder about wandering. I often find myself caught up in a day dream of wonder, or of possibilities that might or could have been. So for me, part of being a wanderer is getting lost in my inner wonderings. This translates to when I am out wandering, I see a hill, a group of rocks, buildings, people, animals and wonder...what's over there? Let's go find out!
