@@ -197,10 +197,6 @@ gallery3:
   image_path: /assets/images/fullsizeoutput_138.jpeg
   alt: ""
   title: ""
-- url: /assets/images/fullsizeoutput_138.jpeg
-  image_path: /assets/images/fullsizeoutput_138.jpeg
-  alt: ""
-  title: ""
 - url: /assets/images/fullsizeoutput_134jpeg
   image_path: /assets/images/fullsizeoutput_134.jpeg
   alt: ""
