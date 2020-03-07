@@ -128,28 +128,52 @@ gallery2:
   image_path: /assets/images/fullsizeoutput_15d.jpeg
   alt: ""
   title: ""
-- url: /assets/images/
-  image_path: /assets/images/
+- url: /assets/images/fullsizeoutput_15e.jpeg
+  image_path: /assets/images/fullsizeoutput_15e.jpeg
   alt: ""
   title: ""
-- url: /assets/images/
-  image_path: /assets/images/
+- url: /assets/images/fullsizeoutput_15c.jpeg
+  image_path: /assets/images/fullsizeoutput_15c.jpeg
   alt: ""
   title: ""
-- url: /assets/images/
-  image_path: /assets/images/
+- url: /assets/images/fullsizeoutput_15a.jpeg
+  image_path: /assets/images/fullsizeoutput_15a.jpeg
   alt: ""
   title: ""
-- url: /assets/images/
-  image_path: /assets/images/
+- url: /assets/images/fullsizeoutput_156.jpeg
+  image_path: /assets/images/fullsizeoutput_156.jpeg
   alt: ""
   title: ""
-- url: /assets/images/
-  image_path: /assets/images/
+- url: /assets/images/fullsizeoutput_159.jpeg
+  image_path: /assets/images/fullsizeoutput_159.jpeg
   alt: ""
   title: ""
-- url: /assets/images/
-  image_path: /assets/images/
+- url: /assets/images/fullsizeoutput_155.jpeg
+  image_path: /assets/images/fullsizeoutput_155.jpeg
+  alt: ""
+  title: ""
+- url: /assets/images/fullsizeoutput_154jpeg
+  image_path: /assets/images/fullsizeoutput_154.jpeg
+  alt: ""
+  title: ""
+- url: /assets/images/fullsizeoutput_151.jpeg
+  image_path: /assets/images/fullsizeoutput_151.jpeg
+  alt: ""
+  title: ""
+- url: /assets/images/fullsizeoutput_145.jpeg
+  image_path: /assets/images/fullsizeoutput_145.jpeg
+  alt: ""
+  title: ""
+- url: /assets/images/fullsizeoutput_147.jpeg
+  image_path: /assets/images/fullsizeoutput_147.jpeg
+  alt: ""
+  title: ""
+- url: /assets/images/fullsizeoutput_14a.jpeg
+  image_path: /assets/images/fullsizeoutput_14a.jpeg
+  alt: ""
+  title: ""
+- url: /assets/images/fullsizeoutput_146.jpeg
+  image_path: /assets/images/fullsizeoutput_146.jpeg
   alt: ""
   title: ""
 gallery3:
@@ -157,24 +181,40 @@ gallery3:
   image_path: /assets/images/fullsizeoutput_14b.jpeg
   alt: ""
   title: ""
-- url: /assets/images/
+- url: /assets/images/fullsizeoutput_141.jpeg
+  image_path: /assets/images/fullsizeoutput_141.jpeg
+  alt: ""
+  title: ""
+- url: /assets/images/fullsizeoutput_144.jpeg
+  image_path: /assets/images/fullsizeoutput_144.jpeg
+  alt: ""
+  title: ""
+- url: /assets/images/fullsizeoutput_13a.jpeg
+  image_path: /assets/images/fullsizeoutput_13a.jpeg
+  alt: ""
+  title: ""
+- url: /assets/images/fullsizeoutput_138.jpeg
+  image_path: /assets/images/fullsizeoutput_138.jpeg
+  alt: ""
+  title: ""
+- url: /assets/images/fullsizeoutput_138.jpeg
   image_path: /assets/images/
   alt: ""
   title: ""
-- url: /assets/images/
-  image_path: /assets/images/
+- url: /assets/images/fullsizeoutput_134jpeg
+  image_path: /assets/images/fullsizeoutput_134.jpeg
   alt: ""
   title: ""
-- url: /assets/images/
-  image_path: /assets/images/
+- url: /assets/images/fullsizeoutput_139.jpeg
+  image_path: /assets/images/fullsizeoutput_139.jpeg
   alt: ""
   title: ""
-- url: /assets/images/
-  image_path: /assets/images/
+- url: /assets/images/fullsizeoutput_135.jpeg
+  image_path: /assets/images/fullsizeoutput_135.jpeg
   alt: ""
   title: ""
-- url: /assets/images/
-  image_path: /assets/images/
+- url: /assets/images/fullsizeoutput_136.jpeg
+  image_path: /assets/images/fullsizeoutput_136.jpeg
   alt: ""
   title: ""
 author:
